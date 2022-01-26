@@ -26,7 +26,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Advanced Select | [The PADS][SQL01] | [ThePADS.sql][SQL02] |Medium|
 | Advanced Select | [Occupations][SQL11] | [Occupations.sql][SQL12] |Medium|
 | Advanced Select | [Type of Triangle][SQL21] | [TypeofTriangle.sql][SQL22] |Medium|
-| Advanced Join | [Symmetric Pairs][SQL31] | [SymmetricPairs.sql][SQL32] |Medium|
+| Advanced Join | [Symmetric Pairs][SQL31] | [SymmetricPairs.sql][SQL32] |Easy|
 
 [SQL01]: https://www.hackerrank.com/challenges/the-pads/problem
 [SQL02]: /SQL/AdvancedSelect/ThePADS.sql
