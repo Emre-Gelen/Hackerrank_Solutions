@@ -6,7 +6,7 @@ hackerrank solutions C# GitHub | hackerrank tutorial in C# | hackerrank algorith
 
 | Subdomain | Challenge | Solution|Difficulty
 |:-------------:|:-------------:|:-----:|:---------:|
-| Implementation | [Solve Me First][01] | [SolveMeFirst.cs][02] |Easy|
+| Warmup | [Solve Me First][01] | [SolveMeFirst.cs][02] |Easy|
 
 [01]: https://www.hackerrank.com/challenges/solve-me-first/problem 
 [02]: /ProblemSolving/Warmup/SolveMeFirst.cs
