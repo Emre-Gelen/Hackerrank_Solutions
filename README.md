@@ -24,6 +24,14 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Subdomain | Challenge | Solution|Difficulty
 |:-------------:|:-------------:|:-----:|:---------:|
 | Advanced Select | [The PADS][SQL01] | [ThePADS.sql][SQL02] |Medium|
+| Advanced Select | [Occupations][SQL11] | [Occupations.sql][SQL12] |Medium|
+| Advanced Select | [Type of Triangle][SQL21] | [TypeofTriangle.sql][SQL22] |Medium|
 
 [SQL01]: https://www.hackerrank.com/challenges/the-pads/problem
 [SQL02]: /SQL/AdvancedSelect/ThePADS.sql
+
+[SQL11]: https://www.hackerrank.com/challenges/occupations/problem
+[SQL12]: /SQL/AdvancedSelect/Occupations.sql
+
+[SQL21]: https://www.hackerrank.com/challenges/what-type-of-triangle/problem
+[SQL22]: /SQL/AdvancedSelect/TypeofTriangle.sql
