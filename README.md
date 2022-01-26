@@ -1,6 +1,6 @@
 # Hackerrank_Solutions
 
-hackerrank solutions C# GitHub | hackerrank tutorial in C# | hackerrank algorithms solution
+hackerrank algorithms solution | hackerrank algorithms solution with C# | hackerrank SQL solution
 
 # Problem Solving
 
