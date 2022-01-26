@@ -6,15 +6,24 @@ hackerrank solutions C# GitHub | hackerrank tutorial in C# | hackerrank algorith
 
 | Subdomain | Challenge | Solution|Difficulty
 |:-------------:|:-------------:|:-----:|:---------:|
-| Warmup | [Solve Me First][01] | [SolveMeFirst.cs][02] |Easy|
-| Warmup | [Simple Array Sum][11] | [SimpleArraySum.cs][12] |Easy|
-| Implementation | [Climbing the Leaderboard][21] | [ClimbingTheLeaderboard.cs][22] |Medium|
+| Warmup | [Solve Me First][ProblemSolving01] | [SolveMeFirst.cs][ProblemSolving02] |Easy|
+| Warmup | [Simple Array Sum][ProblemSolving11] | [SimpleArraySum.cs][ProblemSolving12] |Easy|
+| Implementation | [Climbing the Leaderboard][ProblemSolving21] | [ClimbingTheLeaderboard.cs][ProblemSolving22] |Medium|
 
-[01]: https://www.hackerrank.com/challenges/solve-me-first/problem 
-[02]: /ProblemSolving/Warmup/SolveMeFirst.cs
+[ProblemSolving01]: https://www.hackerrank.com/challenges/solve-me-first/problem 
+[ProblemSolving02]: /ProblemSolving/Warmup/SolveMeFirst.cs
 
-[11]: https://www.hackerrank.com/challenges/simple-array-sum/problem
-[12]: /ProblemSolving/Warmup/SimpleArraySum.cs
+[ProblemSolving11]: https://www.hackerrank.com/challenges/simple-array-sum/problem
+[ProblemSolving12]: /ProblemSolving/Warmup/SimpleArraySum.cs
 
-[21]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
-[22]: /ProblemSolving/Warmup/ClimbingTheLeaderboard.cs
+[ProblemSolving21]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+[ProblemSolving22]: /ProblemSolving/Warmup/ClimbingTheLeaderboard.cs
+
+# SQL
+
+| Subdomain | Challenge | Solution|Difficulty
+|:-------------:|:-------------:|:-----:|:---------:|
+| Advanced Select | [The PADS][SQL01] | [ThePADS.sql][SQL02] |Medium|
+
+[SQL01]: https://www.hackerrank.com/challenges/the-pads/problem
+[SQL02]: /SQL/AdvancedSelect/ThePADS.sql
