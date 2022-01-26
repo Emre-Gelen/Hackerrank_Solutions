@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class SolveMeFirst
+public class Solution
 {
     static int solveMeFirst(int a, int b)
     {
