@@ -1,1 +1,0 @@
-# Hackerrank Problem Solving Solutions
