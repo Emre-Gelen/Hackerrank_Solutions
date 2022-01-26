@@ -6,7 +6,7 @@ hackerrank solutions C# GitHub | hackerrank tutorial in C# | hackerrank algorith
 
 | Subdomain | Challenge | Solution|Difficulty
 |:-------------:|:-------------:|:-----:|:---------:|
-| Implementation | [Climbing the Leaderboard][01] | [Readme.md][02] |Medium|
+| Implementation | [Solve Me First][01] | [SolveMeFirst.cs][02] |Easy|
 
-[01]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem 
-[02]: /README.md
+[01]: https://www.hackerrank.com/challenges/solve-me-first/problem 
+[02]: /ProblemSolving/Warmup/SolveMeFirst.cs
