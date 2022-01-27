@@ -27,6 +27,10 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Advanced Select | [Occupations][SQL11] | [Occupations.sql][SQL12] |Medium|
 | Advanced Select | [Type of Triangle][SQL21] | [TypeofTriangle.sql][SQL22] |Medium|
 | Advanced Join | [Symmetric Pairs][SQL31] | [SymmetricPairs.sql][SQL32] |Easy|
+| Basic Select | [Revising the Select Query I][SQL41] | [RevisingTheSelectQueryI.sql][SQL42] |Easy|
+| Basic Select | [Revising the Select Query II][SQL51] | [RevisingTheSelectQueryII.sql][SQL52] |Easy|
+| Basic Select | [Japanese Cities' Attributes][SQL61] | [JapaneseCitiesAttributes.sql][SQL62] |Easy|
+| Basic Select | [Japanese Cities' Names][SQL71] | [JapaneseCitiesNames.sql][SQL72] |Easy|
 
 [SQL01]: https://www.hackerrank.com/challenges/the-pads/problem
 [SQL02]: /SQL/AdvancedSelect/ThePADS.sql
@@ -39,3 +43,15 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [SQL31]: https://www.hackerrank.com/challenges/symmetric-pairs/problem
 [SQL32]: /SQL/AdvancedJoin/SymmetricPairs.sql
+
+[SQL41]: https://www.hackerrank.com/challenges/revising-the-select-query/problem
+[SQL42]: /SQL/BasicSelect/RevisingTheSelectQuery1.sql
+
+[SQL51]: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem
+[SQL52]: /SQL/BasicSelect/RevisingTheSelectQuery2.sql
+
+[SQL61]: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
+[SQL62]: /SQL/BasicSelect/JapaneseCitiesAttributes.sql
+
+[SQL71]: https://www.hackerrank.com/challenges/japanese-cities-name/problem
+[SQL72]: /SQL/BasicSelect/JapaneseCitiesNames.sql
