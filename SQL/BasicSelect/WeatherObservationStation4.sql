@@ -1,0 +1,1 @@
+SELECT Count(city)-count(distinct city) FROM Station
