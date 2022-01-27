@@ -6,9 +6,9 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 | Subdomain | Challenge | Solution|Difficulty
 |:-------------:|:-------------:|:-----:|:---------:|
+| Implementation | [Climbing the Leaderboard][ProblemSolving21] | [ClimbingTheLeaderboard.cs][ProblemSolving22] |Medium|
 | Warmup | [Solve Me First][ProblemSolving01] | [SolveMeFirst.cs][ProblemSolving02] |Easy|
 | Warmup | [Simple Array Sum][ProblemSolving11] | [SimpleArraySum.cs][ProblemSolving12] |Easy|
-| Implementation | [Climbing the Leaderboard][ProblemSolving21] | [ClimbingTheLeaderboard.cs][ProblemSolving22] |Medium|
 
 [ProblemSolving01]: https://www.hackerrank.com/challenges/solve-me-first/problem 
 [ProblemSolving02]: /ProblemSolving/Warmup/SolveMeFirst.cs
