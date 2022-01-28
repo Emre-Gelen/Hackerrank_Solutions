@@ -1,0 +1,8 @@
+SELECT CASE
+    WHEN b1.P IS NULL THEN CONCAT(b1.N,' Root')
+    WHEN b2.P IS NOT NULL THEN CONCAT(b1.N, ' Inner')
+    ELSE CONCAT(b1.N,' Leaf') END
+FROM BST b1
+LEFT JOIN BST b2 on b2.P=b1.N
+    GROUP BY b1.N,b1.P,b2.P
+    ORDER BY b1.N
