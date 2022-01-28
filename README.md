@@ -42,6 +42,11 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Basic Select | [Weather Observation Station 10][SQL161] | [WeatherObservationStation10.sql][SQL162] |Easy|
 | Basic Select | [Weather Observation Station 11][SQL171] | [WeatherObservationStation11.sql][SQL172] |Easy|
 | Basic Select | [Weather Observation Station 12][SQL181] | [WeatherObservationStation12.sql][SQL182] |Easy|
+| Basic Select | [Higher Than 75 Marks][SQL191] | [HigherThan75Marks.sql][SQL192] |Easy|
+| Basic Select | [Employee Names][SQL201] | [EmployeeNames.sql][SQL202] |Easy|
+| Basic Select | [Employee Salaries][SQL211] | [EmployeeSalaries.sql][SQL212] |Easy|
+| Aggregation | [Weather Observation Station 2][SQL221] | [WeatherObservationStation2.sql][SQL222] |Easy|
+| Aggregation | [Revising Aggregations-The Count Function][SQL231] | [RevisingAggregationsTheCountFunction.sql][SQL232] |Easy|
 
 [SQL01]: https://www.hackerrank.com/challenges/the-pads/problem
 [SQL02]: /SQL/AdvancedSelect/ThePADS.sql
@@ -100,3 +105,17 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 [SQL181]: https://www.hackerrank.com/challenges/weather-observation-station-12/problem
 [SQL182]: /SQL/BasicSelect/WeatherObservationStation12.sql
 
+[SQL191]: https://www.hackerrank.com/challenges/more-than-75-marks/problem
+[SQL192]: /SQL/BasicSelect/HigherThan75Marks.sql
+
+[SQL201]: https://www.hackerrank.com/challenges/name-of-employees/problem
+[SQL202]: /SQL/BasicSelect/EmployeeNames.sql
+
+[SQL211]: https://www.hackerrank.com/challenges/salary-of-employees/problem
+[SQL212]: /SQL/BasicSelect/EmployeeSalaries.sql
+
+[SQL221]: https://www.hackerrank.com/challenges/weather-observation-station-2/problem
+[SQL222]: /SQL/Aggregation/WeatherObservationStation2.sql
+
+[SQL231]: https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem
+[SQL232]: /SQL/Aggregation/RevisingAggregationsTheCountFunction.sql
