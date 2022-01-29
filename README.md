@@ -7,6 +7,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Subdomain | Challenge | Solution|Difficulty
 |:-------------:|:-------------:|:-----:|:---------:|
 | Implementation | [Climbing the Leaderboard][ProblemSolving21] | [ClimbingTheLeaderboard.cs][ProblemSolving22] |Medium|
+| Implementation | [Non-Divisible Subset][ProblemSolving31] | [NonDivisibleSubset.cs][ProblemSolving32] |Medium|
 | Warmup | [Solve Me First][ProblemSolving01] | [SolveMeFirst.cs][ProblemSolving02] |Easy|
 | Warmup | [Simple Array Sum][ProblemSolving11] | [SimpleArraySum.cs][ProblemSolving12] |Easy|
 
@@ -17,7 +18,10 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 [ProblemSolving12]: /ProblemSolving/Warmup/SimpleArraySum.cs
 
 [ProblemSolving21]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
-[ProblemSolving22]: /ProblemSolving/Warmup/ClimbingTheLeaderboard.cs
+[ProblemSolving22]: /ProblemSolving/Implementation/ClimbingTheLeaderboard.cs
+
+[ProblemSolving31]: https://www.hackerrank.com/challenges/non-divisible-subset/problem
+[ProblemSolving32]: /ProblemSolving/Implementation/NonDivisibleSubset.cs
 
 # SQL
 
