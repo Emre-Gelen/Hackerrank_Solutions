@@ -23,6 +23,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 | Subdomain | Challenge | Solution|Difficulty
 |:-------------:|:-------------:|:-----:|:---------:|
+| Advanced Select | [Binary Tree Nodes][SQL241] | [BinaryTreeNodes.sql][SQL242] |Medium|
 | Advanced Select | [The PADS][SQL01] | [ThePADS.sql][SQL02] |Medium|
 | Advanced Select | [Occupations][SQL11] | [Occupations.sql][SQL12] |Medium|
 | Advanced Select | [Type of Triangle][SQL21] | [TypeofTriangle.sql][SQL22] |Medium|
@@ -119,3 +120,6 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [SQL231]: https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem
 [SQL232]: /SQL/Aggregation/RevisingAggregationsTheCountFunction.sql
+
+[SQL241]: https://www.hackerrank.com/challenges/binary-search-tree-1/problem
+[SQL242]: /SQL/AdvancedSelect/BinaryTreeNodes.sql
