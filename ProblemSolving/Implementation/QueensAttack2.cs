@@ -93,7 +93,6 @@ public class Solution
     
     public static void Main(string[] args)
     {
-
         string[] firstMultipleInput = Console.ReadLine().TrimEnd().Split(' ');
 
         int n = Convert.ToInt32(firstMultipleInput[0]);
@@ -116,6 +115,5 @@ public class Solution
         int result = queensAttack(n, k, r_q, c_q, obstacles);
 
         Console.WriteLine(result);
-
     }
 }
