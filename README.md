@@ -10,6 +10,9 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Implementation | [Non-Divisible Subset][ProblemSolving31] | [NonDivisibleSubset.cs][ProblemSolving32] |Medium|
 | Implementation | [Queen's Attack II][ProblemSolving41] | [QueensAttack2.cs][ProblemSolving42] |Medium|
 | Recursion | [Recursive Digit Sum][ProblemSolving51] | [RecursiveDigitSum.cs][ProblemSolving52] |Medium|
+| Warmup | [Diagonal Difference][ProblemSolving61] | [DiagonalDifference.cs][ProblemSolving62] |Easy|
+| Warmup | [Staircase][ProblemSolving71] | [Staircase.cs][ProblemSolving72] |Easy|
+| Warmup | [Plus Minus][ProblemSolving81] | [PlusMinus.cs][ProblemSolving82] |Easy|
 | Warmup | [Solve Me First][ProblemSolving01] | [SolveMeFirst.cs][ProblemSolving02] |Easy|
 | Warmup | [Simple Array Sum][ProblemSolving11] | [SimpleArraySum.cs][ProblemSolving12] |Easy|
 
@@ -30,6 +33,15 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [ProblemSolving51]: https://www.hackerrank.com/challenges/recursive-digit-sum/problem
 [ProblemSolving52]: /ProblemSolving/Recursion/RecursiveDigitSum.cs
+
+[ProblemSolving61]: https://www.hackerrank.com/challenges/diagonal-difference/problem
+[ProblemSolving62]: /ProblemSolving/Warmup/DiagonalDifference.cs
+
+[ProblemSolving71]: https://www.hackerrank.com/challenges/staircase/problem
+[ProblemSolving72]: /ProblemSolving/Warmup/Staircase.cs
+
+[ProblemSolving81]: https://www.hackerrank.com/challenges/plus-minus/problem
+[ProblemSolving82]: /ProblemSolving/Warmup/PlusMinus.cs
 
 # SQL
 
