@@ -9,6 +9,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Implementation | [Climbing the Leaderboard][ProblemSolving21] | [ClimbingTheLeaderboard.cs][ProblemSolving22] |Medium|
 | Implementation | [Non-Divisible Subset][ProblemSolving31] | [NonDivisibleSubset.cs][ProblemSolving32] |Medium|
 | Implementation | [Queen's Attack II][ProblemSolving41] | [QueensAttack2.cs][ProblemSolving42] |Medium|
+| Recursion | [Recursive Digit Sum][ProblemSolving51] | [RecursiveDigitSum.cs][ProblemSolving52] |Medium|
 | Warmup | [Solve Me First][ProblemSolving01] | [SolveMeFirst.cs][ProblemSolving02] |Easy|
 | Warmup | [Simple Array Sum][ProblemSolving11] | [SimpleArraySum.cs][ProblemSolving12] |Easy|
 
@@ -26,6 +27,9 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [ProblemSolving41]: https://www.hackerrank.com/challenges/queens-attack-2/problem
 [ProblemSolving42]: /ProblemSolving/Implementation/QueensAttack2.cs
+
+[ProblemSolving51]: https://www.hackerrank.com/challenges/recursive-digit-sum/problem
+[ProblemSolving52]: /ProblemSolving/Recursion/RecursiveDigitSum.cs
 
 # SQL
 
