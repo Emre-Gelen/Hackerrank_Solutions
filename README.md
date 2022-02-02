@@ -15,6 +15,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Warmup | [Plus Minus][ProblemSolving81] | [PlusMinus.cs][ProblemSolving82] |Easy|
 | Warmup | [Solve Me First][ProblemSolving01] | [SolveMeFirst.cs][ProblemSolving02] |Easy|
 | Warmup | [Simple Array Sum][ProblemSolving11] | [SimpleArraySum.cs][ProblemSolving12] |Easy|
+| Warmup | [Mini-Max Sum][ProblemSolving91] | [MiniMaxSum.cs][ProblemSolving92] |Easy|
 
 [ProblemSolving01]: https://www.hackerrank.com/challenges/solve-me-first/problem 
 [ProblemSolving02]: /ProblemSolving/Warmup/SolveMeFirst.cs
@@ -42,6 +43,9 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [ProblemSolving81]: https://www.hackerrank.com/challenges/plus-minus/problem
 [ProblemSolving82]: /ProblemSolving/Warmup/PlusMinus.cs
+
+[ProblemSolving91]: https://www.hackerrank.com/challenges/mini-max-sum/problem
+[ProblemSolving92]: /ProblemSolving/Warmup/MiniMaxSum.cs
 
 # SQL
 
