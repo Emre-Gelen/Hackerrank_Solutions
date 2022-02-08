@@ -10,6 +10,8 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Implementation | [Non-Divisible Subset][ProblemSolving31] | [NonDivisibleSubset.cs][ProblemSolving32] |Medium|
 | Implementation | [Queen's Attack II][ProblemSolving41] | [QueensAttack2.cs][ProblemSolving42] |Medium|
 | Recursion | [Recursive Digit Sum][ProblemSolving51] | [RecursiveDigitSum.cs][ProblemSolving52] |Medium|
+| Strings | [HackerRank in a String!][ProblemSolving121] | [HackerrankInString.cs][ProblemSolving122] |Easy|
+| Strings | [Mars Exploration][ProblemSolving131] | [MarsExploration.cs][ProblemSolving132] |Easy|
 | Warmup | [Time Conversion][ProblemSolving101] | [TimeConversion.cs][ProblemSolving102] |Easy|
 | Warmup | [Birthday Cake Candles][ProblemSolving111] | [BirthdayCakeCandles.cs][ProblemSolving112] |Easy|
 | Warmup | [Diagonal Difference][ProblemSolving61] | [DiagonalDifference.cs][ProblemSolving62] |Easy|
@@ -54,6 +56,12 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [ProblemSolving111]: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 [ProblemSolving112]: /ProblemSolving/Warmup/BirthdayCakeCandles.cs
+
+[ProblemSolving121]: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
+[ProblemSolving122]: /ProblemSolving/Strings/HackerrankInString.cs
+
+[ProblemSolving131]: https://www.hackerrank.com/challenges/mars-exploration/problem
+[ProblemSolving132]: /ProblemSolving/Strings/MarsExploration.cs
 
 # SQL
 
