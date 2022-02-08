@@ -10,6 +10,8 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Implementation | [Non-Divisible Subset][ProblemSolving31] | [NonDivisibleSubset.cs][ProblemSolving32] |Medium|
 | Implementation | [Queen's Attack II][ProblemSolving41] | [QueensAttack2.cs][ProblemSolving42] |Medium|
 | Recursion | [Recursive Digit Sum][ProblemSolving51] | [RecursiveDigitSum.cs][ProblemSolving52] |Medium|
+| Warmup | [Time Conversion][ProblemSolving101] | [TimeConversion.cs][ProblemSolving102] |Easy|
+| Warmup | [Birthday Cake Candles][ProblemSolving111] | [BirthdayCakeCandles.cs][ProblemSolving112] |Easy|
 | Warmup | [Diagonal Difference][ProblemSolving61] | [DiagonalDifference.cs][ProblemSolving62] |Easy|
 | Warmup | [Staircase][ProblemSolving71] | [Staircase.cs][ProblemSolving72] |Easy|
 | Warmup | [Plus Minus][ProblemSolving81] | [PlusMinus.cs][ProblemSolving82] |Easy|
@@ -46,6 +48,12 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [ProblemSolving91]: https://www.hackerrank.com/challenges/mini-max-sum/problem
 [ProblemSolving92]: /ProblemSolving/Warmup/MiniMaxSum.cs
+
+[ProblemSolving101]: https://www.hackerrank.com/challenges/time-conversion/problem
+[ProblemSolving102]: /ProblemSolving/Warmup/TimeConversion.cs
+
+[ProblemSolving111]: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+[ProblemSolving112]: /ProblemSolving/Warmup/BirthdayCakeCandles.cs
 
 # SQL
 
