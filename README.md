@@ -10,6 +10,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Implementation | [Climbing the Leaderboard][ProblemSolving21] | [ClimbingTheLeaderboard.cs][ProblemSolving22] |Medium|
 | Implementation | [Non-Divisible Subset][ProblemSolving31] | [NonDivisibleSubset.cs][ProblemSolving32] |Medium|
 | Implementation | [Queen's Attack II][ProblemSolving41] | [QueensAttack2.cs][ProblemSolving42] |Medium|
+| Implementation | [Sock Merchant][ProblemSolving151] | [SockMerchant.cs][ProblemSolving152] |Easy|
 | Recursion | [Recursive Digit Sum][ProblemSolving51] | [RecursiveDigitSum.cs][ProblemSolving52] |Medium|
 | Strings | [HackerRank in a String!][ProblemSolving121] | [HackerrankInString.cs][ProblemSolving122] |Easy|
 | Strings | [Mars Exploration][ProblemSolving131] | [MarsExploration.cs][ProblemSolving132] |Easy|
@@ -67,6 +68,8 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 [ProblemSolving141]: https://www.hackerrank.com/challenges/flipping-the-matrix/problem
 [ProblemSolving142]: /ProblemSolving/ConstructiveAlgorithms/FlippingTheMatrix.cs
 
+[ProblemSolving151]: https://www.hackerrank.com/challenges/sock-merchant/problem
+[ProblemSolving152]: /ProblemSolving/Implementation/SockMerchant.cs
 # SQL
 
 | Subdomain | Challenge | Solution|Difficulty
