@@ -6,6 +6,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 | Subdomain | Challenge | Solution|Difficulty
 |:-------------:|:-------------:|:-----:|:---------:|
+| Constructive Algorithms | [Flipping the Matrix][ProblemSolving141] | [FlippingTheMatrix.cs][ProblemSolving142] |Medium|
 | Implementation | [Climbing the Leaderboard][ProblemSolving21] | [ClimbingTheLeaderboard.cs][ProblemSolving22] |Medium|
 | Implementation | [Non-Divisible Subset][ProblemSolving31] | [NonDivisibleSubset.cs][ProblemSolving32] |Medium|
 | Implementation | [Queen's Attack II][ProblemSolving41] | [QueensAttack2.cs][ProblemSolving42] |Medium|
@@ -63,6 +64,9 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 [ProblemSolving131]: https://www.hackerrank.com/challenges/mars-exploration/problem
 [ProblemSolving132]: /ProblemSolving/Strings/MarsExploration.cs
 
+[ProblemSolving141]: https://www.hackerrank.com/challenges/flipping-the-matrix/problem
+[ProblemSolving142]: /ProblemSolving/ConstructiveAlgorithms/FlippingTheMatrix.cs
+
 # SQL
 
 | Subdomain | Challenge | Solution|Difficulty
@@ -71,6 +75,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Advanced Select | [The PADS][SQL01] | [ThePADS.sql][SQL02] |Medium|
 | Advanced Select | [Occupations][SQL11] | [Occupations.sql][SQL12] |Medium|
 | Advanced Select | [Type of Triangle][SQL21] | [TypeofTriangle.sql][SQL22] |Medium|
+| Advanced Select | [New Companies][SQL251] | [NewCompanies.sql][SQL252] |Medium|
 | Advanced Join | [Symmetric Pairs][SQL31] | [SymmetricPairs.sql][SQL32] |Easy|
 | Basic Select | [Revising the Select Query I][SQL41] | [RevisingTheSelectQueryI.sql][SQL42] |Easy|
 | Basic Select | [Revising the Select Query II][SQL51] | [RevisingTheSelectQueryII.sql][SQL52] |Easy|
@@ -167,3 +172,6 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [SQL241]: https://www.hackerrank.com/challenges/binary-search-tree-1/problem
 [SQL242]: /SQL/AdvancedSelect/BinaryTreeNodes.sql
+
+[SQL251]: https://www.hackerrank.com/challenges/the-company/problem
+[SQL252]: /SQL/AdvancedSelect/NewCompanies.sql
