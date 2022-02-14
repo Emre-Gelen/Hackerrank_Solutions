@@ -115,6 +115,8 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Aggregation | [Revising Aggregations - The Sum Function][SQL311] | [RevisingAggregationsTheSumFunction.sql][SQL312] |Easy|
 | Aggregation | [The Blunder][SQL321] | [TheBlunder.sql][SQL322] |Easy|
 | Aggregation | [Top Earners][SQL331] | [TopEarners.sql][SQL332] |Easy|
+| Alternative Queries | [Draw The Triangle 1][SQL411] | [DrawTheTriangle1.sql][SQL412] |Easy|
+| Alternative Queries | [Draw The Triangle 2][SQL421] | [DrawTheTriangle2.sql][SQL422] |Easy|
 
 [SQL01]: https://www.hackerrank.com/challenges/the-pads/problem
 [SQL02]: /SQL/AdvancedSelect/ThePADS.sql
@@ -238,3 +240,9 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [SQL401]: https://www.hackerrank.com/challenges/weather-observation-station-19/problem
 [SQL402]: /SQL/Aggregation/WeatherObservationStation19.sql
+
+[SQL411]: https://www.hackerrank.com/challenges/draw-the-triangle-1/problem
+[SQL412]: /SQL/AlternativeQueries/DrawTheTriangle1.sql
+
+[SQL421]: https://www.hackerrank.com/challenges/draw-the-triangle-2/problem
+[SQL422]: /SQL/AlternativeQueries/DrawTheTriangle2.sql
