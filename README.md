@@ -79,7 +79,6 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Advanced Select | [Occupations][SQL11] | [Occupations.sql][SQL12] |Medium|
 | Advanced Select | [Type of Triangle][SQL21] | [TypeofTriangle.sql][SQL22] |Medium|
 | Advanced Select | [New Companies][SQL251] | [NewCompanies.sql][SQL252] |Medium|
-| Advanced Join | [Symmetric Pairs][SQL31] | [SymmetricPairs.sql][SQL32] |Easy|
 | Basic Select | [The Report][SQL261] | [TheReport.sql][SQL262] |Medium|
 | Basic Select | [Revising the Select Query I][SQL41] | [RevisingTheSelectQueryI.sql][SQL42] |Easy|
 | Basic Select | [Revising the Select Query II][SQL51] | [RevisingTheSelectQueryII.sql][SQL52] |Easy|
@@ -99,6 +98,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Basic Select | [Higher Than 75 Marks][SQL191] | [HigherThan75Marks.sql][SQL192] |Easy|
 | Basic Select | [Employee Names][SQL201] | [EmployeeNames.sql][SQL202] |Easy|
 | Basic Select | [Employee Salaries][SQL211] | [EmployeeSalaries.sql][SQL212] |Easy|
+| Advanced Join | [Symmetric Pairs][SQL31] | [SymmetricPairs.sql][SQL32] |Easy|
 | Aggregation | [Weather Observation Station 18][SQL391] | [WeatherObservationStation18.sql][SQL392] |Medium|
 | Aggregation | [Weather Observation Station 19][SQL401] | [WeatherObservationStation19.sql][SQL402] |Medium|
 | Aggregation | [Weather Observation Station 2][SQL221] | [WeatherObservationStation2.sql][SQL222] |Easy|
