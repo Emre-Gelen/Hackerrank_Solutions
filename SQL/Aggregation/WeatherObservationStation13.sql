@@ -1,0 +1,3 @@
+SELECT CAST(SUM(Lat_N) as decimal(16,4)) 
+FROM Station
+    WHERE Lat_N BETWEEN 38.7880 AND 137.2345
