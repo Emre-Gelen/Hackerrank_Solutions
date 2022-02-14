@@ -99,8 +99,22 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Basic Select | [Higher Than 75 Marks][SQL191] | [HigherThan75Marks.sql][SQL192] |Easy|
 | Basic Select | [Employee Names][SQL201] | [EmployeeNames.sql][SQL202] |Easy|
 | Basic Select | [Employee Salaries][SQL211] | [EmployeeSalaries.sql][SQL212] |Easy|
+| Aggregation | [Weather Observation Station 18][SQL391] | [WeatherObservationStation18.sql][SQL392] |Medium|
+| Aggregation | [Weather Observation Station 19][SQL401] | [WeatherObservationStation19.sql][SQL402] |Medium|
 | Aggregation | [Weather Observation Station 2][SQL221] | [WeatherObservationStation2.sql][SQL222] |Easy|
+| Aggregation | [Weather Observation Station 13][SQL341] | [WeatherObservationStation13.sql][SQL342] |Easy|
+| Aggregation | [Weather Observation Station 14][SQL351] | [WeatherObservationStation14.sql][SQL352] |Easy|
+| Aggregation | [Weather Observation Station 15][SQL361] | [WeatherObservationStation15.sql][SQL362] |Easy|
+| Aggregation | [Weather Observation Station 16][SQL371] | [WeatherObservationStation16.sql][SQL372] |Easy|
+| Aggregation | [Weather Observation Station 17][SQL381] | [WeatherObservationStation17.sql][SQL382] |Easy|
 | Aggregation | [Revising Aggregations-The Count Function][SQL231] | [RevisingAggregationsTheCountFunction.sql][SQL232] |Easy|
+| Aggregation | [Average Population][SQL271] | [AveragePopulation.sql][SQL272] |Easy|
+| Aggregation | [Japan Population][SQL281] | [JapanPopulation.sql][SQL282] |Easy|
+| Aggregation | [Population Density Difference][SQL291] | [PopulationDensityDifference.sql][SQL292] |Easy|
+| Aggregation | [Revising Aggregations - Averages][SQL301] | [RevisingAggregationsAverages.sql][SQL302] |Easy|
+| Aggregation | [Revising Aggregations - The Sum Function][SQL311] | [RevisingAggregationsTheSumFunction.sql][SQL312] |Easy|
+| Aggregation | [The Blunder][SQL321] | [TheBlunder.sql][SQL322] |Easy|
+| Aggregation | [Top Earners][SQL331] | [TopEarners.sql][SQL332] |Easy|
 
 [SQL01]: https://www.hackerrank.com/challenges/the-pads/problem
 [SQL02]: /SQL/AdvancedSelect/ThePADS.sql
@@ -182,3 +196,45 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [SQL261]: https://www.hackerrank.com/challenges/the-report/problem
 [SQL262]: /SQL/BasicSelect/TheReport.sql
+
+[SQL271]: https://www.hackerrank.com/challenges/average-population/problem
+[SQL272]: /SQL/Aggregation/AveragePopulation.sql
+
+[SQL281]: https://www.hackerrank.com/challenges/japan-population/problem
+[SQL282]: /SQL/Aggregation/JapanPopulation.sql
+
+[SQL291]: https://www.hackerrank.com/challenges/population-density-difference/problem
+[SQL292]: /SQL/Aggregation/PopulationDensityDifference.sql
+
+[SQL301]: https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem
+[SQL302]: /SQL/Aggregation/RevisingAggregationsAverages.sql
+
+[SQL311]: https://www.hackerrank.com/challenges/revising-aggregations-sum/problem
+[SQL312]: /SQL/Aggregation/RevisingAggregationsTheSumFunction.sql
+
+[SQL321]: https://www.hackerrank.com/challenges/the-blunder/problem
+[SQL322]: /SQL/Aggregation/TheBlunder.sql
+
+[SQL331]: https://www.hackerrank.com/challenges/earnings-of-employees/problem
+[SQL332]: /SQL/Aggregation/TopEarners.sql
+
+[SQL341]: https://www.hackerrank.com/challenges/weather-observation-station-13/problem
+[SQL342]: /SQL/Aggregation/WeatherObservationStation13.sql
+
+[SQL351]: https://www.hackerrank.com/challenges/weather-observation-station-14/problem
+[SQL352]: /SQL/Aggregation/WeatherObservationStation14.sql
+
+[SQL361]: https://www.hackerrank.com/challenges/weather-observation-station-15/problem
+[SQL362]: /SQL/Aggregation/WeatherObservationStation15.sql
+
+[SQL371]: https://www.hackerrank.com/challenges/weather-observation-station-16/problem
+[SQL372]: /SQL/Aggregation/WeatherObservationStation16.sql
+
+[SQL381]: https://www.hackerrank.com/challenges/weather-observation-station-17/problem
+[SQL382]: /SQL/Aggregation/WeatherObservationStation17.sql
+
+[SQL391]: https://www.hackerrank.com/challenges/weather-observation-station-18/problem
+[SQL392]: /SQL/Aggregation/WeatherObservationStation18.sql
+
+[SQL401]: https://www.hackerrank.com/challenges/weather-observation-station-19/problem
+[SQL402]: /SQL/Aggregation/WeatherObservationStation19.sql
