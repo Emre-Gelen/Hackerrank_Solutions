@@ -101,6 +101,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Advanced Join | [Symmetric Pairs][SQL31] | [SymmetricPairs.sql][SQL32] |Easy|
 | Aggregation | [Weather Observation Station 18][SQL391] | [WeatherObservationStation18.sql][SQL392] |Medium|
 | Aggregation | [Weather Observation Station 19][SQL401] | [WeatherObservationStation19.sql][SQL402] |Medium|
+| Aggregation | [Weather Observation Station 20][SQL431] | [WeatherObservationStation20.sql][SQL432] |Medium|
 | Aggregation | [Weather Observation Station 2][SQL221] | [WeatherObservationStation2.sql][SQL222] |Easy|
 | Aggregation | [Weather Observation Station 13][SQL341] | [WeatherObservationStation13.sql][SQL342] |Easy|
 | Aggregation | [Weather Observation Station 14][SQL351] | [WeatherObservationStation14.sql][SQL352] |Easy|
@@ -246,3 +247,6 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [SQL421]: https://www.hackerrank.com/challenges/draw-the-triangle-2/problem
 [SQL422]: /SQL/AlternativeQueries/DrawTheTriangle2.sql
+
+[SQL431]: https://www.hackerrank.com/challenges/weather-observation-station-20/problem
+[SQL432]: /SQL/Aggregation/WeatherObservationStation20.sql
