@@ -80,8 +80,10 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Advanced Select | [Type of Triangle][SQL21] | [TypeofTriangle.sql][SQL22] |Medium|
 | Advanced Select | [New Companies][SQL251] | [NewCompanies.sql][SQL252] |Medium|
 | Basic Join | [The Report][SQL261] | [TheReport.sql][SQL262] |Medium|
+| Basic Join | [Top Competitors][SQL471] | [TopCompetitors.sql][SQL472] |Medium|
 | Basic Join | [Population Census][SQL441] | [PopulationCensus.sql][SQL442] |Easy|
 | Basic Join | [African Cities][SQL451] | [AfricanCities.sql][SQL452] |Easy|
+| Basic Join | [Average Population of Each Continent][SQL461] | [AveragePopulationOfEachContinent.sql][SQL462] |Easy|
 | Basic Select | [Revising the Select Query I][SQL41] | [RevisingTheSelectQueryI.sql][SQL42] |Easy|
 | Basic Select | [Revising the Select Query II][SQL51] | [RevisingTheSelectQueryII.sql][SQL52] |Easy|
 | Basic Select | [Japanese Cities' Attributes][SQL61] | [JapaneseCitiesAttributes.sql][SQL62] |Easy|
@@ -258,3 +260,9 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [SQL451]: https://www.hackerrank.com/challenges/african-cities/problem
 [SQL452]: /SQL/BasicJoin/AfricanCities.sql
+
+[SQL461]: https://www.hackerrank.com/challenges/average-population-of-each-continent/problem
+[SQL462]: /SQL/BasicJoin/AveragePopulationOfEachContinent.sql
+
+[SQL471]: https://www.hackerrank.com/challenges/full-score/problem
+[SQL472]: /SQL/BasicJoin/TopCompetitors.sql
