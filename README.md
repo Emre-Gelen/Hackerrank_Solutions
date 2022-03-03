@@ -79,7 +79,8 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Advanced Select | [Occupations][SQL11] | [Occupations.sql][SQL12] |Medium|
 | Advanced Select | [Type of Triangle][SQL21] | [TypeofTriangle.sql][SQL22] |Medium|
 | Advanced Select | [New Companies][SQL251] | [NewCompanies.sql][SQL252] |Medium|
-| Basic Select | [The Report][SQL261] | [TheReport.sql][SQL262] |Medium|
+| Basic Join | [The Report][SQL261] | [TheReport.sql][SQL262] |Medium|
+| Basic Join | [Population Census][SQL441] | [PopulationCensus.sql][SQL442] |Easy|
 | Basic Select | [Revising the Select Query I][SQL41] | [RevisingTheSelectQueryI.sql][SQL42] |Easy|
 | Basic Select | [Revising the Select Query II][SQL51] | [RevisingTheSelectQueryII.sql][SQL52] |Easy|
 | Basic Select | [Japanese Cities' Attributes][SQL61] | [JapaneseCitiesAttributes.sql][SQL62] |Easy|
@@ -198,7 +199,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 [SQL252]: /SQL/AdvancedSelect/NewCompanies.sql
 
 [SQL261]: https://www.hackerrank.com/challenges/the-report/problem
-[SQL262]: /SQL/BasicSelect/TheReport.sql
+[SQL262]: /SQL/BasicJoin/TheReport.sql
 
 [SQL271]: https://www.hackerrank.com/challenges/average-population/problem
 [SQL272]: /SQL/Aggregation/AveragePopulation.sql
@@ -250,3 +251,6 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [SQL431]: https://www.hackerrank.com/challenges/weather-observation-station-20/problem
 [SQL432]: /SQL/Aggregation/WeatherObservationStation20.sql
+
+[SQL441]: https://www.hackerrank.com/challenges/asian-population/problem
+[SQL442]: /SQL/BasicJoin/PopulationCensus.sql
