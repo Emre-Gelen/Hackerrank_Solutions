@@ -12,6 +12,7 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 | Implementation | [Queen's Attack II][ProblemSolving41] | [QueensAttack2.cs][ProblemSolving42] |Medium|
 | Implementation | [Sock Merchant][ProblemSolving151] | [SockMerchant.cs][ProblemSolving152] |Easy|
 | Recursion | [Recursive Digit Sum][ProblemSolving51] | [RecursiveDigitSum.cs][ProblemSolving52] |Medium|
+| Search | [Sherlock And Array][ProblemSolving161] | [SherlockAndArray.cs][ProblemSolving162] |Easy|
 | Strings | [HackerRank in a String!][ProblemSolving121] | [HackerrankInString.cs][ProblemSolving122] |Easy|
 | Strings | [Mars Exploration][ProblemSolving131] | [MarsExploration.cs][ProblemSolving132] |Easy|
 | Warmup | [Time Conversion][ProblemSolving101] | [TimeConversion.cs][ProblemSolving102] |Easy|
@@ -70,6 +71,9 @@ hackerrank algorithms solution | hackerrank algorithms solution with C# | hacker
 
 [ProblemSolving151]: https://www.hackerrank.com/challenges/sock-merchant/problem
 [ProblemSolving152]: /ProblemSolving/Implementation/SockMerchant.cs
+
+[ProblemSolving161]: https://www.hackerrank.com/challenges/sherlock-and-array/problem
+[ProblemSolving162]: /ProblemSolving/Search/SherlockAndArray.cs
 # SQL
 
 | Subdomain | Challenge | Solution|Difficulty
